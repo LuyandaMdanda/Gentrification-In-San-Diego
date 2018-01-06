@@ -8,6 +8,7 @@ Analyze and determine the major effects of gentrification in San Diego, and dete
 Used Python, along with Pandas, NumPy, SciPy and Patsy. The project is written in a Jupyter Notebook.
 
 ## Credits 
+Luyanda Mdanda <br>
 Arkin Gupta <br>
 Zaki Siddiqui <br>
-Luyanda Mdanda <br>
+
